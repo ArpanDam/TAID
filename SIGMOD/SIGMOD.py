@@ -103,6 +103,6 @@ while(True):
 new_number_of_influnced_node=Evaluation_number_of_target_nodes_positively_activated_part2.number_of_influenced_member(top_influencial_member,reverse_graph,dict_for_influence_tags,dict_for_target_users,number_of_target_users)                    
 print("Positive influence spread is ",new_number_of_influnced_node) 
 print("Best influential nodes are",top_influencial_member)   
-print("Best influence Tags  nodes are",dict_for_influence_tags)
+print("Best influence Tags are",dict_for_influence_tags)
 
 
