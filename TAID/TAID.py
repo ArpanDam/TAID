@@ -97,7 +97,7 @@ while(True):
        
 print("Positive influence spread is ",new_number_of_influnced_node) 
 print("Best influential nodes are",top_influencial_member)   
-print("Best influence Tags  nodes are",dict_for_influence_tags)
+print("Best influence Tags are",dict_for_influence_tags)
 
 print("End")
 
