@@ -29,7 +29,7 @@ if(len(sys.argv) == 4):
     k=int(sys.argv[1]) # Number of Influencial users
 
 if(len(sys.argv) != 4):
-    percentile=10
+    percentile=50
     r=4 # Number of influence tags
     k=5  # Number of Influencial users    
 
