@@ -34,7 +34,7 @@ if(len(sys.argv) != 4):
     k=5  # Number of Influencial users    
 
 
-Number_of_sample_graphs=10000  # Number of iteration
+Number_of_sample_graphs=1000  # Number of iteration
 graph=pickle.load(open("toy_graph","rb"))
 pos_graph=generate_original_graph_for_input.generate_positive_graph(graph)
 #graph=pickle.load(open("toy_graph_11","rb"))
