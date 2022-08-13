@@ -17,8 +17,8 @@ from numpy import save
 from numpy import load
 from numpy import dot
 from numpy.linalg import norm
-from igraph import *
-import matplotlib.pyplot as plt
+#from igraph import *
+#import matplotlib.pyplot as plt
 from queue import Queue
 import pandas as pd
 import generate_original_graph_for_input
