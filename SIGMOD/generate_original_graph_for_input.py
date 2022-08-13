@@ -18,8 +18,8 @@ from numpy import save
 from numpy import load
 from numpy import dot
 from numpy.linalg import norm
-from igraph import *
-import matplotlib.pyplot as plt
+#from igraph import *
+#import matplotlib.pyplot as plt
 
 
 #edge_probability_career = pickle.load(open("edge_probability_career","rb"))
