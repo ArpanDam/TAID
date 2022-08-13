@@ -17,8 +17,8 @@ import pickle
 from numpy import save
 from numpy import load
 from queue import Queue
-from igraph import *
-import matplotlib.pyplot as plt
+#from igraph import *
+#import matplotlib.pyplot as plt
 import generate_original_graph_for_input
 #import find_seed_from_influence_tags_having_many_graph
 
